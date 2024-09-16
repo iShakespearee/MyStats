@@ -1,0 +1,9 @@
+name: MyStats
+version: '${project.version}'
+main: org.shakespeare.mystats.MyStats
+api-version: '1.21'
+authors: [Shakespeare]
+description: Easy statistics!
+website: github.com/ishakespearee
+commands:
+  mystats:
